@@ -1,4 +1,4 @@
-img{
+.smiley{
 				position: absolute;
 			}
 			#rightSide, #leftSide{
@@ -11,5 +11,5 @@ img{
 				left:500px;
 				border-left: 1px solid black;
 			}body {
-  padding-top: 70px;
+  padding-top: 55px;
 }
